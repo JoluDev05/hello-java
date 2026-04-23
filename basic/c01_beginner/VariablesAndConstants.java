@@ -11,10 +11,10 @@ public class VariablesAndConstants {
 
         // Variables
 
-        String name = "Brais";
+        String name = "Jorge";
         System.out.println(name);
 
-        name = "MoureDev";
+        name = "JoluDev";
         System.out.println(name);
 
         // name = 37; Error (no podemos cambiar el tipo de dato)
