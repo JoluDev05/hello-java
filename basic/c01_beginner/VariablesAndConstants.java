@@ -30,8 +30,11 @@ public class VariablesAndConstants {
 
         // Constantes
 
-        final String EMAIL = "mouredev@gmail.com";
+        final String EMAIL1 = "mouredev@gmail.com";
         // EMAIL = "brais@gmail.com"; Es constante
-        System.out.println(EMAIL);
+        System.out.println(EMAIL1);
+
+        final String EMAIL2 = "arcehuertajorge@gmail.com";
+        System.out.println(EMAIL2);
     }
 }
