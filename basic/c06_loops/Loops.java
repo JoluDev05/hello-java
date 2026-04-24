@@ -21,9 +21,11 @@ public class Loops {
         */
 
         // - for controlado por contador
-
         for (int index = 0; index < 5; index++) {
             System.out.println("Hola, Java!");
+        }
+         for (int index = 5; index > 0; index--) {
+            System.out.println("Hola, Java! negativo");
         }
 
         String[] names = {"Brais", "Moure", "mouredev"};
