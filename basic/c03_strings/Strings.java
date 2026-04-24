@@ -11,8 +11,8 @@ public class Strings {
 
         // Declaración
 
-        String name = "Brais";
-        var surname = new String("Moure");
+        String name = "Jorge";
+        var surname = new String("Arce");
 
         // Operaciones básicas
 
@@ -75,15 +75,15 @@ public class Strings {
         */
 
         // Comparación
-        System.out.println(name.equals("Brais"));
-        System.out.println(name.equals("brais"));
-        System.out.println(name.equalsIgnoreCase("brais"));
+        System.out.println(name.equals("Jorge"));
+        System.out.println(name.equals("jorge"));
+        System.out.println(name.equalsIgnoreCase("jorge"));
 
         // == vs. equals
 
-        var a = "Brais";
-        var b = "Brais";
-        var c = new String("Brais");
+        var a = "Jorge";
+        var b = "Jorge";
+        var c = new String("Jorge");
 
         System.out.println(a == b);
         System.out.println(a == c);
@@ -95,10 +95,10 @@ public class Strings {
         */
 
         // Trim
-        System.out.println(" Hola, me llamo Brais ".trim());
+        System.out.println(" Hola, me llamo Jorge ".trim());// elimina espacios al principio y al final
 
         // Replace
-        System.out.println(" Hola, me llamo Brais ".replace("Brais", "Moure"));
+        System.out.println(" Hola, me llamo Jorge ".replace("Jorge", "Arce"));
 
         /*
         Clase 33 - format
