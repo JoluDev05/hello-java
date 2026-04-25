@@ -1,4 +1,4 @@
-package basic.c08_oop;
+package basic.c08_oop.ClassesExercises_files;
 
 public class ProductExercise {
     private String name;

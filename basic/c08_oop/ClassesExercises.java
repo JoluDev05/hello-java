@@ -1,5 +1,7 @@
 package basic.c08_oop;
 
+import basic.c08_oop.ClassesExercises_files.*;
+
 /*
 Clase 58 - Ejercicios: Clases y objetos
 Vídeo: https://youtu.be/JOAqpdM36wI?t=21434
